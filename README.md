@@ -13,3 +13,7 @@ Server = https://raw.github.com/KSXGitHub/pacman-repo/master/repo
 ```
 
 Then, run `sudo pacman -Sy` to update repository.
+
+## Repo Builders
+
+* https://github.com/KSXGitHub/aur-packages-builder
