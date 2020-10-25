@@ -1,0 +1,7 @@
+---
+- pkgname: starship
+  version: 0.46.2-1
+  arch: x86_64
+- pkgname: bottom
+  version: 0.4.7-0
+  arch: x86_64
