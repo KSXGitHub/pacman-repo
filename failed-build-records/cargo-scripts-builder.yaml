@@ -1,0 +1,7 @@
+---
+- pkgname: rust-evcxr_jupyter
+  version: 0.5.3-1
+  arch: x86_64
+- pkgname: rust-cargo-script
+  version: 0.2.8-1
+  arch: x86_64
