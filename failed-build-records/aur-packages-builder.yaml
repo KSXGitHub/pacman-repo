@@ -2,3 +2,9 @@
 - pkgname: something-for-reddit
   version: 0.2.2-1
   arch: x86_64
+- pkgname: starship
+  version: 0.46.2-1
+  arch: x86_64
+- pkgname: boop-gtk
+  version: 1.5.0-1
+  arch: any
