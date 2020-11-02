@@ -18,3 +18,4 @@ Then, run `sudo pacman -Sy` to update repository.
 
 * https://github.com/KSXGitHub/aur-packages-builder
 * https://github.com/KSXGitHub/cargo-scripts-builder
+* https://github.com/KSXGitHub/personal-pacman-packages
