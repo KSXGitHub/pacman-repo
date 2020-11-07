@@ -14,9 +14,3 @@
 - pkgname: proton
   version: 5.13.1b-3
   arch: x86_64
-- pkgname: python-gtts
-  version: 2.1.1-1
-  arch: any
-- pkgname: dialect
-  version: 1.1.0-1
-  arch: any
