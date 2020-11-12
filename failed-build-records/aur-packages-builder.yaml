@@ -1,0 +1,7 @@
+---
+- pkgname: wine-valve
+  version: 5.12-3
+  arch: x86_64
+- pkgname: proton
+  version: 5.13.1b-3
+  arch: x86_64
