@@ -5,9 +5,6 @@
 - pkgname: proton
   version: 5.13.1b-3
   arch: x86_64
-- pkgname: cargo-spellcheck
-  version: 0.5.0-1
-  arch: x86_64
 - pkgname: cargo-script
   version: 0.2.9-1
   arch: x86_64
