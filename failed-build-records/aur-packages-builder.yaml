@@ -8,3 +8,6 @@
 - pkgname: cargo-script
   version: 0.2.9-1
   arch: x86_64
+- pkgname: pineapple
+  version: 0.8.0-2
+  arch: x86_64
