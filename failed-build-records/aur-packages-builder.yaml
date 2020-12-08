@@ -11,3 +11,6 @@
 - pkgname: pineapple
   version: 0.8.0-2
   arch: x86_64
+- pkgname: faq
+  version: 0.0.6-2
+  arch: any
