@@ -14,3 +14,6 @@
 - pkgname: faq
   version: 0.0.6-2
   arch: any
+- pkgname: cargo-script
+  version: 0.2.9-1
+  arch: x86_64
