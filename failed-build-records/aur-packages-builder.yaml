@@ -17,3 +17,6 @@
 - pkgname: cargo-script
   version: 0.2.9-1
   arch: x86_64
+- pkgname: pamac-aur
+  version: 10.0.0-1
+  arch: x86_64
