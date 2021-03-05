@@ -20,6 +20,3 @@
 - pkgname: pamac-aur
   version: 10.0.0-1
   arch: x86_64
-- pkgname: boop-gtk
-  version: 1.6.0-1
-  arch: any
