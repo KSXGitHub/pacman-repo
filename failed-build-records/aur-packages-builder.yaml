@@ -26,3 +26,6 @@
 - pkgname: freetube
   version: 0.12.0-1
   arch: x86_64
+- pkgname: freetube
+  version: 0.12.0-2
+  arch: x86_64
