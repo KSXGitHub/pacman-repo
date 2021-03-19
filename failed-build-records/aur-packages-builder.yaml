@@ -1,0 +1,7 @@
+---
+- pkgname: freetube
+  version: 0.12.0-2
+  arch: x86_64
+- pkgname: cargo-script
+  version: 0.2.9-1
+  arch: x86_64
