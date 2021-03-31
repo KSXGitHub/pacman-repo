@@ -8,3 +8,6 @@
 - pkgname: dutree
   version: 0.2.15-1
   arch: x86_64
+- pkgname: freetube
+  version: 0.12.0-3
+  arch: x86_64
