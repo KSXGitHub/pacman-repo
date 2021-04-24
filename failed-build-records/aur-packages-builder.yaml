@@ -14,3 +14,6 @@
 - pkgname: pamac-aur
   version: 10.0.99-1
   arch: x86_64
+- pkgname: evcxr_repl
+  version: 0.9.0-1
+  arch: x86_64
