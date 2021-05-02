@@ -17,3 +17,6 @@
 - pkgname: evcxr_repl
   version: 0.9.0-1
   arch: x86_64
+- pkgname: freetube
+  version: 0.12.0-4
+  arch: x86_64
