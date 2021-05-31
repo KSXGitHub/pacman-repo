@@ -23,3 +23,6 @@
 - pkgname: freetube
   version: 0.13.0-1
   arch: x86_64
+- pkgname: freetube
+  version: 0.13.1-1
+  arch: x86_64
