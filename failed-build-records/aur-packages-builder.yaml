@@ -26,6 +26,3 @@
 - pkgname: freetube
   version: 0.13.1-1
   arch: x86_64
-- pkgname: paru
-  version: 1.7.2-1
-  arch: x86_64
