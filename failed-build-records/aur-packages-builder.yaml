@@ -35,3 +35,6 @@
 - pkgname: nushell
   version: 0.34.0-1
   arch: x86_64
+- pkgname: nushell
+  version: 0.34.0-2
+  arch: x86_64
