@@ -38,3 +38,6 @@
 - pkgname: nushell
   version: 0.34.0-2
   arch: x86_64
+- pkgname: paru
+  version: 1.8.0-1
+  arch: x86_64
