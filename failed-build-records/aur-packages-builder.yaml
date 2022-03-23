@@ -62,3 +62,6 @@
 - pkgname: apostrophe
   version: 2.5-3
   arch: any
+- pkgname: apostrophe
+  version: 2.6-1
+  arch: any
