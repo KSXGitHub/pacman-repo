@@ -77,3 +77,6 @@
 - pkgname: commit
   version: 3.1.0-2
   arch: x86_64
+- pkgname: apostrophe
+  version: 2.6.2-1
+  arch: any
