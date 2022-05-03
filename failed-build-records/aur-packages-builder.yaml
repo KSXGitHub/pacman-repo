@@ -86,3 +86,9 @@
 - pkgname: komikku
   version: 0.38.0-1
   arch: any
+- pkgname: clapper
+  version: 0.4.1-1
+  arch: any
+- pkgname: apostrophe
+  version: 2.6.3-1
+  arch: any
