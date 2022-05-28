@@ -95,3 +95,6 @@
 - pkgname: yuzu-early-access
   version: 2724-1
   arch: x86_64
+- pkgname: apostrophe
+  version: 2.6.3-2
+  arch: any
