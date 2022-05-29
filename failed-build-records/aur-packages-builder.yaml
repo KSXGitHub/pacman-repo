@@ -98,3 +98,6 @@
 - pkgname: apostrophe
   version: 2.6.3-2
   arch: any
+- pkgname: clapper
+  version: 0.5.0-1
+  arch: any
