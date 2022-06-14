@@ -110,3 +110,6 @@
 - pkgname: komikku
   version: 0.39.0-1
   arch: any
+- pkgname: rustscan
+  version: 2.1.0-1
+  arch: x86_64
