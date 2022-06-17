@@ -113,3 +113,6 @@
 - pkgname: rustscan
   version: 2.1.0-1
   arch: x86_64
+- pkgname: authenticator
+  version: 4.1.6-1
+  arch: any
