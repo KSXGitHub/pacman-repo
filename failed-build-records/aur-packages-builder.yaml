@@ -116,3 +116,6 @@
 - pkgname: authenticator
   version: 4.1.6-1
   arch: any
+- pkgname: pamac-aur
+  version: 10.4.1-0
+  arch: x86_64
