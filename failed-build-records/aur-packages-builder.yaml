@@ -119,3 +119,6 @@
 - pkgname: pamac-aur
   version: 10.4.1-0
   arch: x86_64
+- pkgname: apostrophe
+  version: 2.6.3-3
+  arch: any
