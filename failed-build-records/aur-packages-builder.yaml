@@ -122,3 +122,6 @@
 - pkgname: apostrophe
   version: 2.6.3-3
   arch: any
+- pkgname: dialect
+  version: 2.0.0-1
+  arch: any
