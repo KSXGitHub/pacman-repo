@@ -131,3 +131,6 @@
 - pkgname: dialect
   version: 2.0.2-1
   arch: any
+- pkgname: komikku
+  version: 0.40.0-1
+  arch: any
