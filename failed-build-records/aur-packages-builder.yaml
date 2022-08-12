@@ -134,3 +134,6 @@
 - pkgname: komikku
   version: 0.40.0-1
   arch: any
+- pkgname: clapper
+  version: 0.5.2-1
+  arch: any
