@@ -137,3 +137,6 @@
 - pkgname: clapper
   version: 0.5.2-1
   arch: any
+- pkgname: pamac-aur
+  version: 10.4.2-0
+  arch: x86_64
