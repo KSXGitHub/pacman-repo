@@ -140,3 +140,6 @@
 - pkgname: pamac-aur
   version: 10.4.2-0
   arch: x86_64
+- pkgname: komikku
+  version: 0.41.0-1
+  arch: any
