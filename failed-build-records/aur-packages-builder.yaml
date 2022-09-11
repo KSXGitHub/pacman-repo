@@ -143,3 +143,6 @@
 - pkgname: komikku
   version: 0.41.0-1
   arch: any
+- pkgname: apostrophe
+  version: 2.6.3-4
+  arch: any
