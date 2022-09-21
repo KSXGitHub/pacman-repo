@@ -146,3 +146,6 @@
 - pkgname: apostrophe
   version: 2.6.3-4
   arch: any
+- pkgname: tor-browser
+  version: 11.5.2-1
+  arch: x86_64
