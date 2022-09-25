@@ -149,3 +149,6 @@
 - pkgname: tor-browser
   version: 11.5.2-1
   arch: x86_64
+- pkgname: komikku
+  version: 1.0.0-2
+  arch: any
