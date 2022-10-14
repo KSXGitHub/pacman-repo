@@ -167,3 +167,6 @@
 - pkgname: python-dateparser
   version: 1.1.1-1
   arch: any
+- pkgname: tor-browser
+  version: 11.5.4-1
+  arch: x86_64
