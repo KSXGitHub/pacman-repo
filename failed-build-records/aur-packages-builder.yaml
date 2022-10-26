@@ -176,3 +176,6 @@
 - pkgname: dialect
   version: 2.1.1-1
   arch: any
+- pkgname: tor-browser
+  version: 11.5.5-1
+  arch: x86_64
