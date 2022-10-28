@@ -179,3 +179,9 @@
 - pkgname: tor-browser
   version: 11.5.5-1
   arch: x86_64
+- pkgname: tor-browser
+  version: 11.5.6-1
+  arch: x86_64
+- pkgname: pamac-aur
+  version: 10.4.2-1
+  arch: x86_64
