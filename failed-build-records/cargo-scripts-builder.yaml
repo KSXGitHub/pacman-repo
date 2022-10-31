@@ -38,3 +38,6 @@
 - pkgname: rust-sea-orm-cli
   version: 0.4.2-1
   arch: x86_64
+- pkgname: rust-cargo-count
+  version: 0.2.4-2
+  arch: x86_64
