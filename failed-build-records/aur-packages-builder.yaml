@@ -185,3 +185,6 @@
 - pkgname: pamac-aur
   version: 10.4.2-1
   arch: x86_64
+- pkgname: pamac-aur
+  version: 10.4.3-1
+  arch: x86_64
