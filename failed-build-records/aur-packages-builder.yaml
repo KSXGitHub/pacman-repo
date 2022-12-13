@@ -193,3 +193,6 @@
 - pkgname: tor-browser
   version: 11.5.8-1
   arch: x86_64
+- pkgname: tor-browser
+  version: 12.0-1
+  arch: x86_64
