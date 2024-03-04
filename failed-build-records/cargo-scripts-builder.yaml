@@ -46,3 +46,6 @@
 - pkgname: rust-csvlens
   version: 0.7.0-1
   arch: x86_64
+- pkgname: rust-cargo-insta
+  version: 1.36.1-1
+  arch: x86_64
